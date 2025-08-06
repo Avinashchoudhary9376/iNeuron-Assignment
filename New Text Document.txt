@@ -1,0 +1,19 @@
+1)Built in module 
+2)External module # we have to install it using pip insall pandas command in terminal or cmd or powersell or command prompt or gitbash or any other terminal that suports python language
+3)import tensorflow#External module
+4)import keras #External module
+5)import pandas#External module
+6)import hashlab # Built in module 
+7)import numpy #External module 
+8)\n Escape sequence caracter
+9)ctrl+/=select multiple lines for comments 
+10)multi line comments =
+  '''
+tripple dot k beech me kuch bhi ho vo comments bn jata h 
+
+  '''
+11)Python me sb kuch object hota h 
+12)Alt+shift+down arrow
+13)Typecasting=(1)Explicit=the conversion of one data type into anther data type ,done by programmer (int(),float(),str(),etc.
+               (2)Implicit=the conversion of one data type into another data type ,done automatially (by python interpeter )
+.Implicit typecasting is done by python automatically while Explicit typecasting is done by the programmer by using functins like int(), float(),str(),etc.
