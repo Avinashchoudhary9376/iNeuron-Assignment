@@ -1,0 +1,23 @@
+ 1. Symmetric Distribution (No Skewness)
+Mean = Median = Mode
+
+📉 2. Left-Skewed Distribution (Negatively Skewed)
+Tail is on the left (more low values)
+
+Relationship:
+
+
+Mean < Median < Mode
+🔍 Explanation:
+The mean gets pulled in the direction of the tail (left), so it becomes less than the median and mode.
+
+📈 3. Right-Skewed Distribution (Positively Skewed)
+Tail is on the right (more high values)
+
+Relationship:
+
+
+
+Mode < Median < Mean
+🔍 Explanation:
+The mean is pulled to the right due to higher values, so it becomes greater than the median and mode.
